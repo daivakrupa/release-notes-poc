@@ -14,7 +14,7 @@ categories:
     labels:
       - enhancement
 
-change-template: '- $TITLE (#$NUMBER)'
+change-template: '- $TITLE by @$AUTHOR (#$NUMBER)'
 
 template: |
   ## What's Changed
